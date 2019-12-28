@@ -1,4 +1,4 @@
-1) Attempeted to code up an invisibility cloak. 
+1) Attempeted to code up an invisibility cloak. https://www.youtube.com/watch?v=KtgdoZFIFZs
 
 2) Currently it works with a red cloth, buth you can change the threshold values so that it works for other colors. Red, Green, Turquouise, Blue, Yellow recommended.
 
