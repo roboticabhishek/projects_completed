@@ -7,3 +7,5 @@
 4) When you run the script, wait for ~3 seconds for it to scapture the background, and then bring in your colored cloth.
 
 5) You might need to adjust the threshold values so it works with your lighting conditions.
+
+6) For example, see input.mp4 and output.mp4
