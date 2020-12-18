@@ -8,4 +8,4 @@
 
 5) You might need to adjust the threshold values so it works with your lighting conditions.
 
-6) For example, see input.mp4 and output.mp4
+6) See and output.mp4
